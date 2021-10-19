@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.header__title {
+  background: linear-gradient(90deg, #ffe000 4.75%, #9ec54f 52.03%, #f28900 98.45%);
+  padding: 20px 15px;
+  text-align: center; }
+  .header__title .text {
+    font-size: 18px; }
+
+#time {
+  font-weight: 700;
+  font-size: 21px; }
